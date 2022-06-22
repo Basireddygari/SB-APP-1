@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.datasoruce.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasoruce.url'"
+  },
+  {
+    "name": "spring.datasoruce.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasoruce.driver-class-name'"
+  }
+]}
